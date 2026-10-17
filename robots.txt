@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-f2abecc79e.krrxuta.cn/sitemap.xml
